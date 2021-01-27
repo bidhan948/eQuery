@@ -6,7 +6,9 @@ and then create a object of Query class and with that object call the function b
 Its documentaion wll be release after 2 months after completing my exam 
 
 
-First of all create an object as
+First of all create a database  connection by going inside __database.php file and renaming the database name 
+
+after that create an object as
 $obj = new query;
 
 ############################## for Displaying #####################################
